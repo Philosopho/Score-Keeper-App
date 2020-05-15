@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper App 2</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="default_score">0</string>
+    <string name="default_second_score">0</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="safety">Safety</string>
+    <string name="reset">RESET</string>
+
+</resources>
